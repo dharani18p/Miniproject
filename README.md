@@ -1,4 +1,4 @@
-## Got It -AI summerzier
+## Got It -Summerzier Using Gen AI
 As very individual thinks,every things need to be easy and understandable every situation .Here, we have our Summarizer using GenAI to make your work easier and get you more understandable .
 A summarizer powered by GenAI helps simplify long texts or documents ,making it easier for people to quickly grasp the main points without losing essential information.
 
